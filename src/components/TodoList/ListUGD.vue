@@ -132,7 +132,7 @@ export default {
             dialog: false,
             dialogD: false,
             add:true,
-            editItem:null,
+            edititem:null,
             headers:[
                 {
                     text: "Task",
